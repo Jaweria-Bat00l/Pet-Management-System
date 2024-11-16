@@ -1,7 +1,5 @@
 package petshopmanagement;
 
-import jdk.internal.icu.text.UnicodeSet;
-
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
